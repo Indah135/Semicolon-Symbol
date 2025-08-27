@@ -1,0 +1,37 @@
+body {
+  background: url('abu.jpg') no-repeat;
+  background-size: cover;
+}
+
+.content {
+  display: flex;
+  align-items: flex-start;
+}
+
+.icon {
+  margin-right: 15px;
+}
+
+.text {
+  font-size: 20px;
+  margin-top: 20px; 
+}
+
+.quote {
+  color: rgb(248, 249, 242);
+  font-style: italic;
+  text-align: left;
+  margin-left: 115px;
+  font-size: 18px;
+  margin-top: -35px; 
+}
+.funfact {
+  margin-top: 30px;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.2);
+  border-left: 5px solid yellow;
+  border-radius: 8px;
+}
+.funfact h3 {
+  margin: 0;
+}
